@@ -1,4 +1,4 @@
-USE scott
+USE scott;
 
 SET time_zone = '+09:00';
 SET NAMES utf8mb4;
