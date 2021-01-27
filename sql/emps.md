@@ -82,11 +82,11 @@ Miller                750000
 Hayes                 680000
 Henry                 650000
 Carter                650000
-Tyler                 630000
+Tyler                 650000
 Wilson                600000
 Ford                  550000
-Smith       Ford      250000
 Blake       Ford      200000
+Smith       Ford      650000
 Hoover      Miller    500000
 Allen       Miller    350000
 Clark       Miller    220000
@@ -110,11 +110,11 @@ ORDER BY nendo
 ```
 
 ```
-nendo	emp_names
-1999	Henry, Miller
-2000	Tyler, Hayes
-2001	Ford
-2002	Wilson, Hoover, Kennedy, Carter
-2010	Smith, Allen, Ward, Jones, Martin
-2011	James, Turner, King, Clark, Blake
+nendo    emp_names
+1999     Henry, Miller
+2000     Tyler, Hayes
+2001     Ford
+2002     Wilson, Hoover, Kennedy, Carter
+2010     Smith, Allen, Ward, Jones, Martin
+2011     James, Turner, King, Clark, Blake
 ```

@@ -38,3 +38,4 @@ CREATE TABLE `emp` (
 
 - [部署をリストアップする](sql/depts.md)
 - [社員をリストアップする](sql/emps.md)
+- [稼いでるのは誰だ?](sql/salary.md)
