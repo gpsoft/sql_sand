@@ -36,4 +36,5 @@ CREATE TABLE `emp` (
 
 ## メニュー
 
+- [部署をリストアップする](sql/depts.md)
 - [社員をリストアップする](sql/emps.md)
